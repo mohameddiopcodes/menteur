@@ -1,0 +1,24 @@
+{
+  "name": "menteur",
+  "version": "1.0.0",
+  "description": "fool your opponents and empty your deck of cards",
+  "main": "/src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohameddiopcodes/menteur.git"
+  },
+  "author": "Mohamed Diop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohameddiopcodes/menteur/issues"
+  },
+  "homepage": "https://github.com/mohameddiopcodes/menteur#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "socket.io": "^4.2.0"
+  }
+}
